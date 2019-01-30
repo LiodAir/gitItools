@@ -1,2 +1,2 @@
 # gitItools
-抓取的一些github的信息
+抓取的一些github的接口调用
